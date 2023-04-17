@@ -1,0 +1,79 @@
+header{
+    background-color:white;
+}
+header h1{
+    color: rgb(97, 250, 97);
+    font-family:Arial, Helvetica, sans-serif;
+}
+header ul{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header ul li{
+    margin-bottom: 10px;
+}
+header ul li a{
+    font-size: 24px;
+    border: 2px solid green;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: aqua;
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+section{
+    background: url(bg.jpg);
+    background-position: auto;
+    margin: 10px;
+    padding: 5px;
+}
+
+section h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+figcaption{
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+ figure img{
+    width: 250px;
+    margin-left: 40%;
+    border-radius: 10px;
+ }
+
+ aside{
+    background-color:white;
+    font-size: larger;
+    color: rgb(8, 248, 8);
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ footer{
+    background-color: rgb(70, 68, 68);
+ }
+ footer p{
+    color: white;
+ }
+ .contact{
+    margin-top: 5px;
+    padding-left: 2%;
+}
+.contact a{
+    font-size: larger;
+    text-decoration: none;
+    color: white;
+}
+.Icon{
+    width: 20px;
+    margin: auto;
+}
